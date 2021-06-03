@@ -9,8 +9,8 @@
 - 😄 Pronouns: He/Him
 
 ### Looking for a custom Discod bot?
-- Dm me on discord 
-- Andyyy#3204
+- Dm me on Discord 
+- Andyyy#3583
 
 <br />
 
