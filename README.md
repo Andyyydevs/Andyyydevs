@@ -5,7 +5,7 @@
 ### Welcome to my Github 🤓
 - 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on Discord.js
+- 👯 I’m looking to collaborate on Open Source
 - 😄 Pronouns: He/Him
 
 ### Looking for a custom Discod bot?
