@@ -1,4 +1,9 @@
 ### Hi there 👋
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
+### Welcome to my Github 🤓
+
+
 
 - 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning python
