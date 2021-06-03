@@ -1,14 +1,15 @@
 ### Hi there 👋
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="300" />
  
 ### Welcome to my Github 🤓
-
-
-
 - 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Discord.js
 - 😄 Pronouns: He/Him
+
+<br />
+<br />
 
 ### Languages and Tools:
 
@@ -28,11 +29,11 @@
 <br />
 <br />
 ---
-
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&show_icons=true&hide_border=true" />
-
+<details>
 
 [instagram]: https://www.instagram.com/andyyym221/
 [portfolio]: https://Andyyym.github.io/profile/
