@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on Discord.js
 - 😄 Pronouns: He/Him
 
-<br />
+
+
 <br />
 
 ### Languages and Tools:
@@ -18,6 +19,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -29,11 +31,11 @@
 <br />
 <br />
 ---
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&show_icons=true&hide_border=true" />
-<details>
+  <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=radical&show_icons=true&hide_border=true" />
+
 
 [instagram]: https://www.instagram.com/andyyym221/
 [portfolio]: https://Andyyym.github.io/profile/
