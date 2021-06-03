@@ -38,9 +38,9 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym" />
 
 </details>
 
-[instagram]: https://www.instagram.com/holistic_developer/
-[portfolio]: https://arsentieva.github.io/profile/
+[instagram]: https://www.instagram.com/andyyym221/
+[portfolio]: https://Andyyym.github.io/profile/
