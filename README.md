@@ -33,11 +33,18 @@
 <br />
 <br />
 ---
+<details>
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap:View GitHub Stats</summary>
 
   <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=outrun&show_icons=true&hide_border=true" />
-
+ </details>
+  
+ <details>
+  <summary>:zap:</details>View Most Used Languages</summary>
+   
+  <img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
+</details>
 
 [instagram]: https://www.instagram.com/andyyym221/
 [portfolio]: https://Andyyym.github.io/profile/
