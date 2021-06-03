@@ -8,7 +8,9 @@
 - 👯 I’m looking to collaborate on Discord.js
 - 😄 Pronouns: He/Him
 
-
+### Looking for a custom Discod bot?
+- Dm me on discord 
+- Andyyy#3204
 
 <br />
 
