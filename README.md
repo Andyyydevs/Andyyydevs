@@ -41,7 +41,7 @@
  </details>
   
  <details>
-  <summary>:zap:</details>View Most Used Languages</summary>
+  <summary>:zap:View Most Used Languages</summary>
    
   <img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
 </details>
