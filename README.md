@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Discord.js
 - 😄 Pronouns: He/Him
--->
 
 ### Languages and Tools:
 
