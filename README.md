@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="450" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/Andyyym/Andyyym/blob/main/programmer.gif?raw=true" width="450" height="300" />
  
 ### Welcome to my Github 🤓
 - 🔭 I’m currently working on Websites
