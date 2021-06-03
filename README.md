@@ -34,7 +34,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=radical&show_icons=true&hide_border=true" />
+  <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=outrun&show_icons=true&hide_border=true" />
 
 
 [instagram]: https://www.instagram.com/andyyym221/
