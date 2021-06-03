@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Discord Bots
+- 🔭 I’m currently working on Websites
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Discord.js
 - 🤔 I’m looking for help with ...
