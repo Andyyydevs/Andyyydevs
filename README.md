@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Open Source
 - 😄 Pronouns: He/Him
 
-### Looking for a custom Discod bot?
+### Looking for a custom Discord bot?
 - Dm me on Discord 
 - Andyyy#3583
 
