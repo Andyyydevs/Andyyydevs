@@ -45,6 +45,3 @@
    
   <img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
 </details>
-
-[instagram]: https://www.instagram.com/andyyym221/
-[portfolio]: https://Andyyym.github.io/profile/
