@@ -10,7 +10,7 @@
 
 ### Looking for a custom Discord bot?
 - Dm me on Discord 
-- CerberusZA#9166
+- Andyyy#9166
 
 <br />
 
