@@ -31,8 +31,10 @@
 
 <br />
 <br />
----
+
 <details>
+ 
+---
 
   <summary>:zap:View GitHub Stats</summary>
 
