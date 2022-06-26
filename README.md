@@ -29,12 +29,7 @@
 <br />
 <br />
  
----
 
 - GitHub Stats
-
-<img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=outrun&show_icons=true&hide_border=true" />
-
-- Top Languages
-
-<img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&layout=compact&hide=TSQL&theme=outrun"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Andyyym&count_private=true&show_icons=true&&theme=outrun&include_all_commits=true" width="400"></p> 
