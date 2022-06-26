@@ -1,6 +1,4 @@
 ### Hi there 👋
-
- <img align="right" alt="GIF" src="https://github.com/Andyyym/Andyyym/blob/main/programmer.gif?raw=true" width="450" height="300" />
  
 ### Welcome to my Github 🤓
 - 🔭 I’m currently working on API's
@@ -8,9 +6,9 @@
 - 👯 I’m looking to collaborate on Open Source
 - 😄 Pronouns: He/Him
 
-
-
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -36,13 +34,10 @@
  
 ---
 
-  <summary>:zap:View GitHub Stats</summary>
+:zap:View GitHub Stats
 
-  <img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=outrun&show_icons=true&hide_border=true" />
- </details>
-  
- <details>
-  <summary>:zap:View Most Used Languages</summary>
-   
-  <img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
-</details>
+<img align="left" alt="Andys's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Andyyym&theme=outrun&show_icons=true&hide_border=true" />
+
+<br />
+ 
+<img align="left" alt="Andy's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=outrun" />
