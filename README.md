@@ -32,5 +32,5 @@
 <p align= center><h2>GitHub Stats</h2></p>
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&layout=compact&theme=outrun"></p>
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=Andyyym&count_private=true&show_icons=true&&theme=outrun&include_all_commits=true" width="400"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&layout=compact&theme=cobalt"></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=Andyyym&count_private=true&show_icons=true&&theme=cobalt&include_all_commits=true" width="400"></p>
