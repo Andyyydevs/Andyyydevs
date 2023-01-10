@@ -5,7 +5,7 @@
 ### Welcome to my Github 🤓
 - 🔭 I’m currently working on API's
 - 🌱 I’m currently learning python
-- 👯 I’m looking for a job
+- 👯 I’m looking to improve my skills
 - 😄 Pronouns: He/Him
 
 <br />
