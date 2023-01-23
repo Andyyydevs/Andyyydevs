@@ -34,5 +34,3 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyyym&theme=cobalt"></p>
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=Andyyym&count_private=true&show_icons=true&&theme=cobalt&include_all_commits=true" width="400"></p>
 
-<a href="https://discord.com/users/484419124433518602"><img src="https://lanyard.cnrad.dev/api/484419124433518602?idleMessage=Surfing%20waves%20in%20cyberspace..." width="320"/></a>
-</div>
