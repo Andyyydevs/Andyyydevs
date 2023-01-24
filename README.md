@@ -3,7 +3,7 @@ Andyyy@GitHub/Andyyym
 -----------------------
 Aliases: Andy, Andrew
 OS: Windows 11 Home
-Server: Ubuntu 20.04 focal
+Server: Ubuntu 22.04.1 LTS
 Uptime: 960028200
 Location: South Africa
 Languages: JavaScript, Python, Java, SQL, HTML, CSS, C#
