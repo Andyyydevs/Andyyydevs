@@ -2,9 +2,6 @@
 Andyyy@GitHub/Andyyym
 -----------------------
 Aliases: Andy, Andrew
-OS: Windows 11 Home
-Server: Ubuntu 22.04.1 LTS
-Uptime: 960028200
 Location: South Africa
 Languages: JavaScript, Python, Java, SQL, HTML, CSS, C#
 Hobbies: "Gaming, Music, Photography Programming"
