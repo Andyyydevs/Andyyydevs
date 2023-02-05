@@ -4,7 +4,7 @@ Andyyy@GitHub/Andyyym
 Aliases: Andy, Andrew
 Location: South Africa
 Languages: JavaScript, Python, Java, SQL, HTML, CSS, C#
-Hobbies: "Gaming, Music, Photography Programming"
+Hobbies: "Gaming, Music, Photography, Programming"
 Discord: GΛZ#3972
 Studies: "Bachelor of Computer and Information Science, Application Development"
 ``` 
