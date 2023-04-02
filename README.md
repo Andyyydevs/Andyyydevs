@@ -1,5 +1,5 @@
 ```coffee
-Andyyy@GitHub/Andyyym
+GΛZ@GitHub/Andyyym
 -----------------------
 Aliases: Andy, Andrew
 Location: South Africa
