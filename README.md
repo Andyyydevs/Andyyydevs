@@ -10,7 +10,6 @@ Studies: "Bachelor of Computer and Information Science, Application Development"
 ``` 
 <hr>
 
-#### My Stats
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
