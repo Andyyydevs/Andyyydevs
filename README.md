@@ -1,7 +1,7 @@
 ```coffee
 GΛZ@GitHub/Andyyym
 -----------------------
-Aliases: Andy, Andrew
+Aliases: Andrew
 Location: South Africa
 Languages: JavaScript, Python, Java, SQL, HTML, CSS, C#
 Hobbies: "Gaming, Music, Photography, Programming"
