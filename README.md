@@ -1,15 +1,3 @@
-```coffee
-GΛZ@GitHub/Andyyym
------------------------
-Aliases: Andrew
-Location: South Africa
-Languages: JavaScript, Python, Java, SQL, HTML, CSS, C#, C++
-Hobbies: "Gaming, Music, Photography, Programming"
-Discord: GΛZ#3972
-Studies: "Bachelor of Computer and Information Science, Application Development"
-``` 
-<hr>
-
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
