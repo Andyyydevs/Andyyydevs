@@ -11,6 +11,5 @@
 
 > Provided by [`GitHub Readme Stats`]
 
-<hr>
  [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 <hr>
