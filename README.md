@@ -12,10 +12,5 @@
 > Provided by [`GitHub Readme Stats`]
 
 <hr>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/333331842360934400?theme=dark&bg=1A1919animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Hello!)](https://discord.com/users/333331842360934400)
-> Provided by [`Discord Presence`]
-
  [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
- [`Discord Presence`]: https://github.com/cnrad/lanyard-profile-readme
 <hr>
