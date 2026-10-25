@@ -1,11 +1,8 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/api/?username=Andyyydevs&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-stats-extended.vercel.app/api/top-langs?username=Andyyydevs&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Andyyydevs&layout=compact&langs_count=6&theme=radical" />
     </td>
   </tr>
 </table>
-> Provided by [`GitHub Readme Stats`]
-
- [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 <hr>
